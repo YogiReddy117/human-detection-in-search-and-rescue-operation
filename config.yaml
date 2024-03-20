@@ -1,0 +1,7 @@
+names:
+- human
+nc: 1
+path: D:/Final year Project/dataset
+predict: D:/Final year Project/test/train/images
+train: D:/Final year Project/dataset/train/images
+val: D:/Final year Project/dataset/val/images
